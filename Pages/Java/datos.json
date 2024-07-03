@@ -1,0 +1,23 @@
+[
+    {
+        "producto": "Sal",
+        "precio": 500
+    },
+    {
+        "producto":"Perejil en polvo",
+        "precio": 400
+    },
+    {
+        "producto": "Romero",
+        "precio": 300
+    },
+    {
+        "producto": "Condimento para Pizza",
+        "precio": 350
+    },
+    {
+        "producto": "Oregano",
+        "precio": 350
+    }
+]
+
